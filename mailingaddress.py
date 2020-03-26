@@ -1,0 +1,7 @@
+print("Samantha Uy")
+print("55 Levantier ST.")
+print("Toronto ON H6F 7D3")
+space = ("                                  ")
+print(space + "Terra Lee")
+print(space + "12 Belle ST.")
+print(space + "Calgary AB L2R 5T1")
